@@ -1,0 +1,5 @@
+#9 The first question i missed was question 9, i did not realize that declarations were arithmatic operatore or included libraries counted either.
+
+#18 I could not think of a way were a hile loop couldn't be implemented as a for loop, but i also do not know that much about c, so im not suprised that there is something i didn't realize was possible.
+
+#20 I realize that I is incremented after the equation, but i forgot during the exam to increment i before i looked at the answers.
