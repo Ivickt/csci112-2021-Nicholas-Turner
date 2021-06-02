@@ -63,7 +63,7 @@ int compare(char hurr[NUM_LINES][LINE_LENGTH], FILE *outp)
    char *name;
    char *cat = 0;
    char *date;
-   char *a, *b, *c;
+   char *a, *b;
 
    //for loop to print results
    fprintf(outp,"Hurricanes in Florida alphabetized by name\n");
@@ -83,11 +83,11 @@ int compare(char hurr[NUM_LINES][LINE_LENGTH], FILE *outp)
 
 
   for (int i =0; i<1; i++){
-    *a =2;
-    *b =3;
-    *c = 3;
+    *a =i;
+    *b =i;
+   } 
 
-  }
+ 
 
 
 return 0;
